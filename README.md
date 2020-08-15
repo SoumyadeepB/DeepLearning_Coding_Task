@@ -1,6 +1,6 @@
-## DeepLearning_Coding_Task
+## Coding task for "Deep Learning for Speech and Language Processing":
 
-Coding task for "Deep Learning for Speech and Language Processing":
+
 
 # Arousal/Valence Classification using logMel Features
 
